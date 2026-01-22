@@ -1,0 +1,20 @@
+/* UNO Multiplayer Pro - Global Styles */
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+}
+
+button:focus {
+    outline: none;
+}
+
+input:focus {
+    outline: none;
+}
